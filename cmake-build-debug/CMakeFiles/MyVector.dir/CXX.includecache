@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodri/OneDrive/Escritorio/MyVector-master/Vector.cpp
+Vector.h
+C:/Users/rodri/OneDrive/Escritorio/MyVector-master/Vector.h
+iostream
+-
+
+C:/Users/rodri/OneDrive/Escritorio/MyVector-master/Vector.h
+
+C:/Users/rodri/OneDrive/Escritorio/MyVector-master/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+Vector.h
+C:/Users/rodri/OneDrive/Escritorio/MyVector-master/Vector.h
+

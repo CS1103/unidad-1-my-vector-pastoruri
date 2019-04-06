@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
-
-
+#include "Vector.h"
+using namespace UTEC;
 int main() {
 
     // Creando vectores
